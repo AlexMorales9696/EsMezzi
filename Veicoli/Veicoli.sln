@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veicoli", "Veicoli\Veicoli.csproj", "{FABF91A4-986C-4AC7-963B-5B6A7808BBEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlerFile", "HandlerFile\HandlerFile.csproj", "{FFA95CC0-73D6-4759-92CA-4037AD97716E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FABF91A4-986C-4AC7-963B-5B6A7808BBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABF91A4-986C-4AC7-963B-5B6A7808BBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABF91A4-986C-4AC7-963B-5B6A7808BBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA95CC0-73D6-4759-92CA-4037AD97716E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA95CC0-73D6-4759-92CA-4037AD97716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA95CC0-73D6-4759-92CA-4037AD97716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA95CC0-73D6-4759-92CA-4037AD97716E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
